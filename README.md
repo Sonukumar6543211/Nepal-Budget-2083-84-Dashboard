@@ -46,7 +46,11 @@ Dataset file:
 
 ## Project Screenshot
 
-Add dashboard screenshots inside the `Screenshots` folder and display them here.
+<h2>Dashboard Preview</h2>
+
+<p align="center">
+  <img src=""D:\Dashboard image\Screenshot 2026-06-03 091033.png"" width="900">
+</p>
 
 ## Learning Outcomes
 
